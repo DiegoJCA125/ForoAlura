@@ -32,7 +32,7 @@ A continuación se adjuntan diversas imágenes del proyecto:
 - Una vez generado el token deberá de utilizarse en la sección Authorize (Swagger UI).
 - Una vez verificado el token podra consumir los métodos de `GET`, `POST`, `PUT`, `DELETE`.
 
-<h2>:hammer_and_pick: Métodos más utilizados del Web API</h2>
+<h2>Métodos más utilizados del Web API</h2>
 - Este es un ejemplo del método `GET` de la ruta /topics, que retorna todos los tópicos y las respuestas que le han brindado al mismo.
 - En la siguiente imágen se observa el método `POST` para crear un nuevo tópico.
 - Se observa el método `POST` para crear una respuesta al tópico creado anteriormente.
